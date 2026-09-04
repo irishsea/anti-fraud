@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/alert-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alert-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contracts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contracts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fraud-batch-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fraud-batch-job/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fraud-streaming-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fraud-streaming-job/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transaction-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transaction-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
